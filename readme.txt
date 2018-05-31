@@ -9,3 +9,4 @@ git演练   master
 git 分支
 >>>>>>> feature1
 change dev
+stash指令
